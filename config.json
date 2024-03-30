@@ -1,0 +1,56 @@
+{
+    "mirrors": {
+        "Kali Linux":{
+            "download":"https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-live-amd64.iso", 
+            "details":"Kali Linux is a specialized Linux distribution designed for penetration testing, digital forensics, and security auditing. It is based on Debian and includes a vast array of pre-installed tools used by security professionals and enthusiasts for various cybersecurity tasks.",
+            "save-name":"isos//Kali-Linux-iso.iso"
+        },
+        "Arch Linux": {
+            "download":"https://au.mirrors.cicku.me/archlinux/iso/2024.03.01/archlinux-2024.03.01-x86_64.iso",
+            "details":"Arch Linux is a lightweight and highly customizable operating system that focuses on simplicity, user control, and cutting-edge software. It's designed for users who want to build their system from the ground up, selecting and configuring only the components they need.",
+            "save-name":"isos//Arch-linux-iso.iso"
+        },
+        "Fedora": {
+            "download":"https://mirror.arizona.edu/fedora/linux/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.5.iso",
+            "details":"Fedora is a user-friendly and cutting-edge Linux distribution sponsored by Red Hat. It aims to provide a balance between stability and innovation, making it suitable for both desktop and server use.", 
+            "save-name":"isos//Fedora-iso.iso"
+        },
+        "Debian": {
+            "download":"https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-11.1.0-amd64-standard.iso",
+            "details":"Debian is one of the oldest and most respected Linux distributions, known for its stability, security, and commitment to free software principles. It provides a robust and reliable operating system suitable for servers, desktops, and embedded devices.", 
+            "save-name":"isos//Debian-iso.iso"
+        },
+        "Alpine Linux": {
+            "download":"http://dl-cdn.alpinelinux.org/alpine/v3.14/releases/x86_64/alpine-standard-3.14.2-x86_64.iso",
+            "details":"Alpine Linux is a lightweight and security-focused Linux distribution designed primarily for containers, embedded devices, and server environments. "
+        },
+        "openSUSE": {
+            "download":"https://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso",
+            "details":"openSUSE is a user-friendly and versatile Linux distribution known for its stability, ease of use, and powerful system management tools. It offers two main editions: Leap and Tumbleweed. Leap follows a regular release cycle with stable versions, while Tumbleweed is a rolling release with the latest software updates."
+        },
+        "Gentoo": {
+            "download":"https://distfiles.gentoo.org/releases/amd64/autobuilds/20240312T171909Z/install-amd64-minimal-20240312T171909Z.iso",
+            "details":"Gentoo is a highly customizable and performance-oriented Linux distribution known for its source-based package management system."
+        },
+        "NixOS": {
+            "download":"ttps://channels.nixos.org/nixos-23.11/latest-nixos-minimal-x86_64-linux.iso",
+            "details":"NixOS is a unique and innovative Linux distribution known for its declarative approach to system configuration and package management."
+        },
+        "Manjaro": {
+            "download":"https://download.manjaro.org/xfce/23.1.3/manjaro-xfce-23.1.3-minimal-240113-linux66.iso",
+            "details":"Manjaro is a user-friendly and accessible Linux distribution based on Arch Linux. It aims to provide a stable, easy-to-use system while retaining the flexibility and customization options of Arch."
+        },
+        "EndeavourOS": {
+            "download":"https://mirrors.urbanwave.co.za/endeavouros/iso/EndeavourOS_Galileo-Neo-2024.01.25.iso",
+            "details":"EndeavourOS is a user-friendly Arch Linux-based distribution that aims to provide a streamlined and straightforward experience for users interested in Arch without the initial complexities. "
+        },
+        "Linux Mint": {
+            "download":"https://mirrors.cicku.me/linuxmint/iso/stable/21.3/linuxmint-21.3-cinnamon-64bit.iso",
+            "details":"Linux Mint is a popular and user-friendly Linux distribution based on Ubuntu and Debian. It aims to provide a reliable, elegant, and easy-to-use operating system for desktop users. "
+        },
+        "Artix Linux": {
+            "download":"https://iso.artixlinux.org/weekly-iso/artix-base-openrc-20240304-x86_64.iso",
+            "details":"Artix Linux is a rolling-release Linux distribution that is based on Arch Linux but differs in its approach to init systems. "
+        }
+    }
+}
