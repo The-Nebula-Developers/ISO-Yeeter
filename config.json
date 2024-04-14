@@ -6,7 +6,7 @@
             "save-name":"isos//Kali-Linux-iso.iso"
         },
         "Arch Linux": {
-            "download":"https://au.mirrors.cicku.me/archlinux/iso/2024.03.01/archlinux-2024.03.01-x86_64.iso",
+            "download":"https://au.mirrors.cicku.me/archlinux/iso/2024.04.01/archlinux-2024.03.01-x86_64.iso",
             "details":"Arch Linux is a lightweight and highly customizable operating system that focuses on simplicity, user control, and cutting-edge software. It's designed for users who want to build their system from the ground up, selecting and configuring only the components they need.",
             "save-name":"isos//Arch-linux-iso.iso"
         },
